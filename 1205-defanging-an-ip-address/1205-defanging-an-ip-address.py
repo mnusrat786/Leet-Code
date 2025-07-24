@@ -7,4 +7,7 @@ class Solution(object):
         :type address: str
         :rtype: str
         """
+        # parts = address.split(".")
+        # output = "[.]".join(parts)
+        # return output
         
