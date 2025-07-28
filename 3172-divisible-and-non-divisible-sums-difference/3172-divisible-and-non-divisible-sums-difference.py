@@ -1,3 +1,4 @@
+
 class Solution(object):
     def differenceOfSums(self, n, m):
         num1,num2 = 0,0  # sum of numbers not divisible by m
