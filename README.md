@@ -13,6 +13,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/mnusrat786/Leet-Code/tree/master/0242-valid-anagram) |
 | [1205-defanging-an-ip-address](https://github.com/mnusrat786/Leet-Code/tree/master/1205-defanging-an-ip-address) |
 | [3567-convert-date-to-binary](https://github.com/mnusrat786/Leet-Code/tree/master/3567-convert-date-to-binary) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/mnusrat786/Leet-Code/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/mnusrat786/Leet-Code/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
