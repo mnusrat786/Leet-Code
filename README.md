@@ -20,8 +20,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mnusrat786/Leet-Code/tree/master/0242-valid-anagram) |
+| [1364-tuple-with-same-product](https://github.com/mnusrat786/Leet-Code/tree/master/1364-tuple-with-same-product) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mnusrat786/Leet-Code/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [1364-tuple-with-same-product](https://github.com/mnusrat786/Leet-Code/tree/master/1364-tuple-with-same-product) |
+## Counting
+|  |
+| ------- |
+| [1364-tuple-with-same-product](https://github.com/mnusrat786/Leet-Code/tree/master/1364-tuple-with-same-product) |
 <!---LeetCode Topics End-->
