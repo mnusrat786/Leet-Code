@@ -25,12 +25,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mnusrat786/Leet-Code/tree/master/0242-valid-anagram) |
+| [3778-transform-array-by-parity](https://github.com/mnusrat786/Leet-Code/tree/master/3778-transform-array-by-parity) |
 ## Array
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/mnusrat786/Leet-Code/tree/master/1364-tuple-with-same-product) |
+| [3778-transform-array-by-parity](https://github.com/mnusrat786/Leet-Code/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/mnusrat786/Leet-Code/tree/master/1364-tuple-with-same-product) |
+| [3778-transform-array-by-parity](https://github.com/mnusrat786/Leet-Code/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
