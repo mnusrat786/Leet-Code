@@ -1,9 +1,15 @@
 class Solution:
     def transformArray(self, nums: List[int]) -> List[int]:
-        for i in range(len(nums)):
-            if nums[i] % 2 == 0:
-                nums[i] = 0
+        even = 0
+        odd = 0
+
+        for i in nums:
+            if i % 2 == 0:
+                even += 1
             else:
-                nums[i] = 1
-        nums.sort()
-        return nums
+                odd += 1
+
+        elist = [0] * even
+        olist = [1] * odd
+
+        return elist + olist
