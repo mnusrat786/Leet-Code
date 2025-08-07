@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mnusrat786/Leet-Code/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/mnusrat786/Leet-Code/tree/master/0242-valid-anagram) |
 | [1364-tuple-with-same-product](https://github.com/mnusrat786/Leet-Code/tree/master/1364-tuple-with-same-product) |
 ## Sorting
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mnusrat786/Leet-Code/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/mnusrat786/Leet-Code/tree/master/0283-move-zeroes) |
 | [1364-tuple-with-same-product](https://github.com/mnusrat786/Leet-Code/tree/master/1364-tuple-with-same-product) |
 | [3778-transform-array-by-parity](https://github.com/mnusrat786/Leet-Code/tree/master/3778-transform-array-by-parity) |
