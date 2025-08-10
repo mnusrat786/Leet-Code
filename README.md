@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mnusrat786/Leet-Code/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mnusrat786/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/mnusrat786/Leet-Code/tree/master/0283-move-zeroes) |
 | [1364-tuple-with-same-product](https://github.com/mnusrat786/Leet-Code/tree/master/1364-tuple-with-same-product) |
 | [3778-transform-array-by-parity](https://github.com/mnusrat786/Leet-Code/tree/master/3778-transform-array-by-parity) |
@@ -42,5 +43,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mnusrat786/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/mnusrat786/Leet-Code/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
