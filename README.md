@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mnusrat786/Leet-Code/tree/master/0009-palindrome-number) |
+| [1448-maximum-69-number](https://github.com/mnusrat786/Leet-Code/tree/master/1448-maximum-69-number) |
 | [2383-add-two-integers](https://github.com/mnusrat786/Leet-Code/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/mnusrat786/Leet-Code/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/mnusrat786/Leet-Code/tree/master/2812-find-the-maximum-achievable-number) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mnusrat786/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/mnusrat786/Leet-Code/tree/master/0283-move-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/mnusrat786/Leet-Code/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
