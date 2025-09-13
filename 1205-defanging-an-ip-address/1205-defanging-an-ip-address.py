@@ -1,6 +1,5 @@
 class Solution(object):
     def defangIPaddr(self, address):
-
         output = address.replace(".","[.]")
         return output
         """
