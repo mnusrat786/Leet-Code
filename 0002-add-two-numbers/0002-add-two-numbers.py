@@ -24,8 +24,6 @@ class Solution:
             l1=l1.next if l1 else None
             l2=l2.next if l2 else None
         return dummy.next
-
-        
         # rev = l1[::-1]
         # rev1 = l2[::-1]
         # number = int("".join(str(d) for d in rev))
