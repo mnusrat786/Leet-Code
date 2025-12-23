@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mnusrat786/Leet-Code/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/mnusrat786/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mnusrat786/Leet-Code/tree/master/0242-valid-anagram) |
 | [3778-transform-array-by-parity](https://github.com/mnusrat786/Leet-Code/tree/master/3778-transform-array-by-parity) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mnusrat786/Leet-Code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mnusrat786/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mnusrat786/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/mnusrat786/Leet-Code/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mnusrat786/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/mnusrat786/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/mnusrat786/Leet-Code/tree/master/0217-contains-duplicate) |
