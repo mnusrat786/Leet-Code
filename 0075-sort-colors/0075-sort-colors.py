@@ -3,8 +3,8 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        if not nums:  # Fixed empty check
-            return
+        # if not nums:  # Fixed empty check
+        #     return
         
         # Your approach modified to work correctly
         for i in range(len(nums) - 1):  # Fixed: -1 to avoid index error
