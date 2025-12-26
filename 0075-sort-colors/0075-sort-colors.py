@@ -3,12 +3,25 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        # if not nums:  # Fixed empty check
-        #     return
+        red = 0
+        white = 0
+        blue = len(nums)-1
+        while white<=blue:
+            curr = nums[white]
+            if curr == 0:
+                nums[white]=nums[red]
+                nums[red]=0
+                red+=1
+                white+=1
+            elif curr == 1:
+                white +=1
+            else:
+                nums[white] = nums[blue]
+                nums[blue] =2
+                blue -= 1
+                
+
+
+
+
         
-        # Your approach modified to work correctly
-        for i in range(len(nums) - 1):  # Fixed: -1 to avoid index error
-            for j in range(len(nums) - 1):
-                if nums[j] > nums[j + 1]:  # Compare values, not equality
-                    # Fixed swap implementation
-                    nums[j], nums[j + 1] = nums[j + 1], nums[j]
