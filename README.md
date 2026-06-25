@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mnusrat786/Leet-Code/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/mnusrat786/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mnusrat786/Leet-Code/tree/master/0242-valid-anagram) |
 | [1205-defanging-an-ip-address](https://github.com/mnusrat786/Leet-Code/tree/master/1205-defanging-an-ip-address) |
 | [3567-convert-date-to-binary](https://github.com/mnusrat786/Leet-Code/tree/master/3567-convert-date-to-binary) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mnusrat786/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/mnusrat786/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mnusrat786/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/mnusrat786/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/mnusrat786/Leet-Code/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
