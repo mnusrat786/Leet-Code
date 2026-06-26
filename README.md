@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mnusrat786/Leet-Code/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mnusrat786/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mnusrat786/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/mnusrat786/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/mnusrat786/Leet-Code/tree/master/0049-group-anagrams) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mnusrat786/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mnusrat786/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/mnusrat786/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mnusrat786/Leet-Code/tree/master/0088-merge-sorted-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mnusrat786/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/mnusrat786/Leet-Code/tree/master/0055-jump-game) |
 | [1448-maximum-69-number](https://github.com/mnusrat786/Leet-Code/tree/master/1448-maximum-69-number) |
 ## Linked List
